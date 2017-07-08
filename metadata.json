@@ -1,0 +1,15 @@
+{
+  "name": "ather-ssh",
+  "version": "0.1.0",
+  "author": "ather",
+  "summary": "this is ssh module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Atherullahkhan/puppet-ssh",
+  "project_page": "https://github.com/Atherullahkhan/puppet-ssh",
+  "issues_url": "https://github.com/Atherullahkhan/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
